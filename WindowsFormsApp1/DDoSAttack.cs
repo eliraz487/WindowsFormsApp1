@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class DDoSAttack : Form
     {
-        public Form1()
+        public DDoSAttack()
         {
             InitializeComponent();
         }
@@ -38,6 +38,11 @@ namespace WindowsFormsApp1
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labe1_Click(object sender, EventArgs e)
         {
 
         }
